@@ -1,0 +1,9 @@
+[submodule "hugo-future-imperfect"]
+	path = hugo-future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/jpescador/hugo-future-imperfect
+[submodule "themes/future-imperfect"]
+	path = themes/future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect
