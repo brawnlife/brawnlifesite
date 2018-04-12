@@ -12,14 +12,14 @@ title = "Why I started this site"
 type = "post"
 +++
 
-I was listening to a podcast between Zach Miko and Klevin Davis where they started talking about toxic masculinity and a lack of a positive men's body movement. Zach and Klevin challenged men to talking about their feelings and spreading the message that you don't need to bottle your emotions and burying them deep. Challenge Accepted.
+I was listening to a podcast between Zach Miko and Kelvin Davis where they started talking about toxic masculinity and a lack of a positive men's body movement. Zach and Kelvin challenged men to talking about their feelings and spreading the message that you don't need to bottle your emotions and burying them deep. Challenge Accepted.
 
 
 I love this and I think it IS an important message that needs to be spread. I can honestly say I don't know how I'm going to do it. The one thing I can say confidently is I'm an open book. I think I often overshare and I have no problem going into the weeds with uncomfortable conversations about my past and previous decisions. I feel like, in this medium and for this topic, this could be considered an asset.
 
 So why do I think this is important?
 
-I'm a big guy and unlike Zach and Klevin, I'm not comfortable with myself or my body. I never have been. 
+I'm a big guy and unlike Zach and Kelvin, I'm not comfortable with myself or my body. I never have been. 
 
 It wasn't always because I was a brawny guy. When I was in Middle School and through High School, I wanted to be bigger. I used to dream about becoming a professional wrestler and I fixated on the fact I didn't look like The Rock, Triple H or Bret Hart. I was ashamed of myself because I didn't have the six pack abs, the huge pectoral muscles or bulging biceps. I wanted it and it was a reason I struggled with depression through high school. I wanted to be larger, thicker and couldn't accept that I wasn't.
 
@@ -59,7 +59,7 @@ So with all this said, I still struggle with my weight. I'm down to 300 lbs but 
 
 I intially thought that this would be another fashion blog but dedicated towards providing style advice to larger guys. I love fashion and I think that us brawny guys get shafted when fashion advice is provided. Seriously... Will skinny guys stop telling us that we need a beard to look thinner or that the first step to looking more fashion-forward is going to the gym. I'm so tired of having to skip the first (and sometimes second) point about how weight loss is required for looking more fashionable. If it were that simple, then we'd all be size 32's.
 
-While I still want to do that, I do think I'll be taking the advice of Zach and Klevin and focusing on the emotional side of my life too. I'm comfortable talking about how I've struggled with depression and suicide. I'm more than willing to go into a deep dive over therapy and how it benefited me. If it'll help, I'll happily talk about how my marriage crumbled and needed to be rebuilt. 
+While I still want to do that, I do think I'll be taking the advice of Zach and Kelvin and focusing on the emotional side of my life too. I'm comfortable talking about how I've struggled with depression and suicide. I'm more than willing to go into a deep dive over therapy and how it benefited me. If it'll help, I'll happily talk about how my marriage crumbled and needed to be rebuilt. 
 
 I don't mind being an open book and if that helps provide a voice to a positive body movement for men, then that's a positive. I think it's important and is something that needs to be shared. I have friends and family who struggle with their weight and if I story I share can help them learn to accept themselves then that's great.
 
