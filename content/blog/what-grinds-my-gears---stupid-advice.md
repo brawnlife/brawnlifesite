@@ -30,7 +30,7 @@ What really bugs me about it, is that this advice is that it's given by people w
 
  
 
-I know this is the attitude because I've been on the recieving end of it. Once, during an employee review, one of my guys tried to crack a joke. I asked the question "If you were me, what would you do differently?" The intention was to get an assessment of how I could improve my management skills but instead I got a grin followed by "I'd actually go to the gym". 
+I know this is the attitude because I've been on the receiving end of it. Once, during an employee review, one of my guys tried to crack a joke. I asked the question "If you were me, what would you do differently?" The intention was to get an assessment of how I could improve my management skills but instead I got a grin followed by "I'd actually go to the gym". 
 
 It was harsh. I was hurt and disappointed. I thought he respected me but in that moment I realized he saw of me as some fat piece of shit who just needed to work out. I kept my cool, made a couple of jokes and continued the review but all I wanted to do was tell him to go fuck himself.
 
