@@ -1,6 +1,6 @@
 ---
 upload_path: "/static/img/:year:/:month:"
-frontmatter_file_url_template: "/uploads/:year:/:month:/:day:"
+frontmatter_file_url_template: ''
 body_file_url_template: ''
 new_page_extension: md
 auto_deploy: false
