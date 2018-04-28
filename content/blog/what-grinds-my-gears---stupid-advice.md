@@ -12,8 +12,6 @@ title = "What Grinds My Gears - Stupid Advice"
 type = "post"
 
 +++
-![](/uploads/2018/04/28/22687851_10154975166221592_8583944363090711654_n.jpg)
-
 I'm a fan of Family Guy. So I've decided to do something super unoriginal... _You know what really grinds my gears_? In these articles, I'll focus on something that just drives me crazy.
 
 So, with that said...
