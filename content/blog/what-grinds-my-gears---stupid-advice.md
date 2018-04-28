@@ -3,7 +3,6 @@ author = "Andrew Kelly"
 categories = ["", "grinds my gears", "weightloss", "fashion advice"]
 date = "2018-04-28T03:20:48+00:00"
 description = "You know what really grinds my gears? Terrible advice that every fashion expert seems to have for brawny guys."
-draft = true
 featured = "/uploads/2018/04/28/22687851_10154975166221592_8583944363090711654_n.jpg"
 featuredalt = ""
 featuredpath = ""
