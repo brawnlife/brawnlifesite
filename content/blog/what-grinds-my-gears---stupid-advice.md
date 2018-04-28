@@ -1,13 +1,13 @@
 +++
 author = "Andrew Kelly"
-categories = ["", "grinds my gears", "weightloss", "fashion advice"]
+categories = ["", "grinds my gears", "weightloss", "fashion advice", "body positive"]
 date = "2018-04-28T03:20:48+00:00"
 description = "You know what really grinds my gears? Terrible advice that every fashion expert seems to have for brawny guys."
 featured = "/uploads/2018/04/28/22687851_10154975166221592_8583944363090711654_n.jpg"
 featuredalt = "In the middle of the Crossfit competition."
-featuredpath = ""
-linktitle = ""
-tags = ["grinds my gears", "weightloss", "fashion advice", "crossfit", "advice", "badadvice"]
+featuredpath = "date"
+linktitle = "Test"
+tags = ["grinds my gears", "weightloss", "fashion advice", "crossfit", "advice", "badadvice", "body positive"]
 title = "What Grinds My Gears - Stupid Advice"
 type = "post"
 
